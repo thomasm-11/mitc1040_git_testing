@@ -1,5 +1,5 @@
 # mitc1040_git_testing
-Thomas Mitchell
+Thomas Mitchell \
 mitc1040@msu.edu
 Econ minoring in Data Analytics
 Senior
